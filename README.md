@@ -1,4 +1,4 @@
-# 🛠️ E-Commerce Store — Backend API (Strapi)
+# 🛠️ Shop.CO / E-Commerce Store — Backend API (Strapi)
 
 This repository contains the **Strapi headless CMS backend** powering the E-Commerce Store frontend.
 It manages:
